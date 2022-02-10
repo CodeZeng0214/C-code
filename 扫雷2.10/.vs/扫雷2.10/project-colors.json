@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c54a8e0e-13c1-49a2-b248-e054ad27e0ec": {
+      "ProjectGuid": "c54a8e0e-13c1-49a2-b248-e054ad27e0ec",
+      "DisplayName": "扫雷2.10",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
