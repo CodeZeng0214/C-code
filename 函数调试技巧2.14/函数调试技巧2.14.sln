@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数调试技巧2.14", "函数调试技巧2.14\函数调试技巧2.14.vcxproj", "{F823543F-44F7-460B-BDD6-21003DB7463B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F823543F-44F7-460B-BDD6-21003DB7463B}.Debug|x64.ActiveCfg = Debug|x64
+		{F823543F-44F7-460B-BDD6-21003DB7463B}.Debug|x64.Build.0 = Debug|x64
+		{F823543F-44F7-460B-BDD6-21003DB7463B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F823543F-44F7-460B-BDD6-21003DB7463B}.Debug|x86.Build.0 = Debug|Win32
+		{F823543F-44F7-460B-BDD6-21003DB7463B}.Release|x64.ActiveCfg = Release|x64
+		{F823543F-44F7-460B-BDD6-21003DB7463B}.Release|x64.Build.0 = Release|x64
+		{F823543F-44F7-460B-BDD6-21003DB7463B}.Release|x86.ActiveCfg = Release|Win32
+		{F823543F-44F7-460B-BDD6-21003DB7463B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05FCA882-F7F9-4F90-AD6F-3F60919EDD7A}
+	EndGlobalSection
+EndGlobal
