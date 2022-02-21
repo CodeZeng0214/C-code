@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "内存函数2.21", "内存函数2.21\内存函数2.21.vcxproj", "{229B4ABB-81C8-4C19-8BEF-6D01BEC18D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{229B4ABB-81C8-4C19-8BEF-6D01BEC18D86}.Debug|x64.ActiveCfg = Debug|x64
+		{229B4ABB-81C8-4C19-8BEF-6D01BEC18D86}.Debug|x64.Build.0 = Debug|x64
+		{229B4ABB-81C8-4C19-8BEF-6D01BEC18D86}.Debug|x86.ActiveCfg = Debug|Win32
+		{229B4ABB-81C8-4C19-8BEF-6D01BEC18D86}.Debug|x86.Build.0 = Debug|Win32
+		{229B4ABB-81C8-4C19-8BEF-6D01BEC18D86}.Release|x64.ActiveCfg = Release|x64
+		{229B4ABB-81C8-4C19-8BEF-6D01BEC18D86}.Release|x64.Build.0 = Release|x64
+		{229B4ABB-81C8-4C19-8BEF-6D01BEC18D86}.Release|x86.ActiveCfg = Release|Win32
+		{229B4ABB-81C8-4C19-8BEF-6D01BEC18D86}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1726509-D78D-4CC4-A21A-A4DF823FD1B9}
+	EndGlobalSection
+EndGlobal
