@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73c27ae8-b53e-4a05-90cc-698770ab198f": {
+      "ProjectGuid": "73c27ae8-b53e-4a05-90cc-698770ab198f",
+      "DisplayName": "字符串函数及模拟实现strcmp,strncmp 2.21",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
