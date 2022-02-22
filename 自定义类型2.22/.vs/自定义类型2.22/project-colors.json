@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a216667-b3b6-4918-ab48-1b3f06aadfc1": {
+      "ProjectGuid": "2a216667-b3b6-4918-ab48-1b3f06aadfc1",
+      "DisplayName": "自定义类型2.22",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
