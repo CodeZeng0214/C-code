@@ -123,3 +123,28 @@ void my_memmmove(char* dest, const char* src, size_t num)
 	return ret;
 
 }
+
+///memcpy - 只要实现了不重叠拷贝就可以了,而VS中的实现既可以拷贝不重叠，也可以拷贝重叠内存
+
+//memcmp - 内存比较
+//
+//int main()
+//{
+//	float arr1[] = { 1.0, 2.0,3.0,4.0 };
+//	float arr2[] = { 1.0, 3.0 };
+//	int ret = memcmp(arr1, arr2, 8);
+//	//memcmp - strcmp
+//	printf("%d\n", ret);
+//
+//	return 0;
+//}
+
+//int main()
+//{
+//	//40
+//	int arr[10] = { 0 };//20
+//	memset(arr, 1, 20);//以字节为单位设置内存的
+//	//01 00 00 00
+//	//01 01 01 01
+//	return 0;
+//}
