@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f671b2f-c2c5-4bfc-8b9c-891987c20c6e": {
+      "ProjectGuid": "4f671b2f-c2c5-4bfc-8b9c-891987c20c6e",
+      "DisplayName": "联合体与通讯录2.23",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
