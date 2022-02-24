@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3416f13a-bd16-4450-aa78-e0388bffa7bb": {
+      "ProjectGuid": "3416f13a-bd16-4450-aa78-e0388bffa7bb",
+      "DisplayName": "动态内存分布与柔性数组2.24",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
