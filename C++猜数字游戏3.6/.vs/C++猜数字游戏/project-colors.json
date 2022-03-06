@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb8344ce-fbb6-4b84-8811-f56c4236f4fe": {
+      "ProjectGuid": "bb8344ce-fbb6-4b84-8811-f56c4236f4fe",
+      "DisplayName": "C++猜数字游戏",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
